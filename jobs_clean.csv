@@ -1,0 +1,21 @@
+job_id,client,role,skill_required,location,salary_budget,status
+501,RetailHub,Frontend Developer,React,Chennai,620431,Closed
+502,MediCare Plus,Frontend Developer,React,Coimbatore,617491,On Hold
+503,RetailHub,Java Developer,Java,Hyderabad,681911,Open
+504,FinServe,Python Developer,Python,Bengaluru,617008,Open
+505,MediCare Plus,Digital Marketer,Marketing,Chennai,529328,Closed
+506,BuildRight,Sales Executive,Sales,Pune,566470,Open
+507,EduSpark,Python Developer,Python,Coimbatore,666893,Open
+508,EduSpark,Frontend Developer,React,Pune,726448,Closed
+509,MediCare Plus,Sales Executive,Sales,Pune,552316,Open
+510,FinServe,Digital Marketer,Marketing,Pune,601607,Open
+511,FinServe,Sales Executive,Sales,Chennai,513602,Open
+512,BuildRight,QA Engineer,Testing,Hyderabad,498877,Open
+513,EduSpark,Frontend Developer,React,Bengaluru,667269,Closed
+514,FinServe,Python Developer,Python,Coimbatore,659583,On Hold
+515,MediCare Plus,Sales Executive,Sales,Pune,464280,On Hold
+516,BuildRight,MIS Executive,Excel,Hyderabad,423429,Open
+517,FinServe,Sales Executive,Sales,Chennai,597739,Open
+518,FinServe,Digital Marketer,Marketing,Coimbatore,600463,On Hold
+519,MediCare Plus,Java Developer,Java,Chennai,732991,Closed
+520,TechNova,Sales Executive,Sales,Coimbatore,484612,Open
